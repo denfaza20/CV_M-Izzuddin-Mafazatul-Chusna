@@ -1,5 +1,3 @@
-# CV_M-Izzuddin-Mafazatul-Chusna
-CV
 <!doctype html>
 <html lang="en">
 <head>
@@ -33,7 +31,7 @@ CV
     <div class="card">
       <header>
         <div>
-          <h1>M Izzudin Mafazatul Chusna, S.S <span class="muted">• English Tutor & Master Teacher</span></h1>
+          <h1>M Izzuddin Mafazatul Chusna, S.S <span class="muted">• English Tutor & Master Teacher</span></h1>
           <div class="muted">Bantul, DI Yogyakarta, Indonesia</div>
           <p class="muted" style="margin-top:8px">
             Dedicated English educator with over five years of experience in teaching and translation. 
